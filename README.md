@@ -31,6 +31,7 @@ The result of extraction is stored in `JSON` and one article per line. The speci
 ```
 
 The example is in `example`  folder.
+
 ***Note***: Some articles' body text is empty and the corresponding `full_text` is an empty list.
 
 ## Reference Link
