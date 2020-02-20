@@ -36,5 +36,9 @@ The example is in `example`  folder.
 
 ## Reference Link
 * https://github.com/rgormisky/LatentDirichletAllocation
+
+## Related Link
+* https://www.jianshu.com/p/cbba3e2dbdcd
+* https://www.jianshu.com/p/35d21a1f22a9
 * https://www.cnblogs.com/ifantastic/archive/2013/04/12/3017110.html
 * https://www.cnblogs.com/insane-Mr-Li/p/9963875.html
